@@ -1,2 +1,2 @@
 # Techouts-oms
-from techouts2
+from techouts
